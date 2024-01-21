@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669650348877",
+    "project_id": "greetings2024-cf16a",
+    "storage_bucket": "greetings2024-cf16a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669650348877:android:4369a0c6a723d458a0e504",
+        "android_client_info": {
+          "package_name": "com.example.greetings_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq-DAi0bprRNl8-7f3ALW1R6Ys0fA8KiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
